@@ -27,7 +27,7 @@ All steps need to be completed prior to the start of the tutorial held during th
 
    Click **Retrieve**.  MATLAB may prompt you for your GitHub account email and password.  Enter it and clone the repo.
 
-5. From within MATLAB, make a small edit to this README file in your cloned repo.
+5. From within MATLAB, make a small edit to this READ ME file in your cloned repo.
    
 6. From within MATLAB, commit the change.  Right click on README.md.  Click **Source Control > View and Commit Changes...**
    ![image](https://github.com/yuxudong1024/Summit2024-Prework/assets/39162415/bc3a097e-e39c-4697-b070-e225db1b3403)
